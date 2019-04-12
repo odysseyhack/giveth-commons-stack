@@ -1,0 +1,9 @@
+[submodule "giveth-commons-abc-contracts"]
+	path = giveth-commons-abc-contracts
+	url = https://github.com/OdysseyHack/giveth-commons-abc-contracts
+[submodule "giveth-commons-abc-lib"]
+	path = giveth-commons-abc-lib
+	url = https://github.com/OdysseyHack/giveth-commons-abc-lib
+[submodule "giveth-commons-abc-app"]
+	path = giveth-commons-abc-app
+	url = https://github.com/OdysseyHack/giveth-commons-abc-app
