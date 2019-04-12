@@ -11,5 +11,11 @@ This means that when you make changes to your project, and push new commits to i
 
 Simply `cd` into this directory, `git status` should show changes in your repo's folder. Just `git add *` and `git commit ...` and the new commit hash of your repo will be pushed to this repo.
 
+## Adding Your Repo
+`git submodule add https://....`  
+`git add *`  
+`git commit ...`  
+`git push`  
+
 # TODO
 - Instructions for creating a new dApp with the commons-stack
