@@ -10,3 +10,6 @@
 [submodule "giveth-commons-abc-ui"]
 	path = giveth-commons-abc-ui
 	url = https://github.com/odysseyhack/giveth-commons-abc-ui
+[submodule "giveth-commons-core-ui"]
+	path = giveth-commons-core-ui
+	url = git@github.com:odysseyhack/giveth-commons-core-ui.git
