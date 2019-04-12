@@ -7,3 +7,6 @@
 [submodule "giveth-commons-abc-app"]
 	path = giveth-commons-abc-app
 	url = https://github.com/OdysseyHack/giveth-commons-abc-app
+[submodule "giveth-commons-abc-ui"]
+	path = giveth-commons-abc-ui
+	url = https://github.com/odysseyhack/giveth-commons-abc-ui
