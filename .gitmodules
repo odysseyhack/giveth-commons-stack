@@ -10,3 +10,6 @@
 [submodule "giveth-commons-components"]
 	path = giveth-commons-components
 	url = https://github.com/odysseyhack/giveth-commons-components
+[submodule "giveth-commons-mv-app"]
+	path = giveth-commons-mv-app
+	url = https://github.com/odysseyhack/giveth-commons-mv-app
