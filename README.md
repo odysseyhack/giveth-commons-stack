@@ -1,4 +1,10 @@
 # Giveth Commons Stack
+Redefining Donation Driven Organizations  
+
+## The "Augmented Bonding Curve" Stack
+[Web App](./giveth-commons-abc-app)  
+[JS Library](./giveth-commons-abc-lib)  
+[EVM Contracts](./giveth-commons-abc-contracts)  
 
 ## Development Setup
 1. Clone this repo.  
@@ -16,6 +22,3 @@ Simply `cd` into this directory, `git status` should show changes in your repo's
 `git add *`  
 `git commit ...`  
 `git push`  
-
-# TODO
-- Instructions for creating a new dApp with the commons-stack
